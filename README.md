@@ -56,8 +56,8 @@ This keeps the code organised and is better for performance.
 
 ## 🎥 Video Explanation
 
-▶️ **[https://youtu.be/qnIbUiBv1HQ](PASTE_YOUR_VIDEO_LINK_HERE)**
 
+▶️ **[Watch the video here](https://youtu.be/qnIbUiBv1HQ)**
 ---
 ## 📁 Files
 
